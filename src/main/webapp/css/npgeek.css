@@ -1,0 +1,155 @@
+
+section {
+	
+	border: solid 2px aliceblue;
+	border-radius: 27px;
+	margin: 100px;
+	margin-top:85px;
+	background-color: aliceblue;
+}
+#forecast {
+	
+	height: 750px;
+	border: solid 2px aliceblue;
+	border-radius: 27px;
+	margin: 50px;
+	margin-top:85px;
+	background-color: aliceblue;
+}
+body{
+	
+	background-image: url("forest.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+#largerFont{
+	
+	font-size:16px;
+	font-weight:bold;
+	margin-left: 18px;	
+	
+}
+#header {
+	
+	position: fixed inline-block;
+	margin-bottom: 2%;
+}
+
+#logo {
+	
+	height:300px;	
+}
+#parkName {
+	
+	text-align: center;
+	font-size: 20px;
+	font-family: Courier;
+	margin-bottom:30px;
+}
+#pageTitle {
+	
+	color:navy;
+	font-size: 50px;
+	text-align: center; 
+}
+#image {
+	
+	display: inline-block;
+	margin-left: 5%;
+	margin-bottom: 5%;
+}
+#imageDetail{
+	
+	display: block;
+	margin:auto;
+	margin-bottom:30px;
+	width: 80%;
+}
+#parkDetailContainer{
+	
+	display:inline-block;
+	position: relative;
+	width: px;
+	
+}
+#container2{
+	
+	display: inline-block;
+	position:relative;
+	right:0px;
+	width:250px;
+	padding-left:80px;
+	margin-left:80px;
+		
+}
+#container1{
+	
+	display: inline-block;
+	position:relative;
+	padding-left:80px;
+	margin-left:80px;
+	left:0px;
+	width:250px;
+		
+}
+#summary {
+	
+	margin: 7% 0 5% 4%;
+	display: inline-block;
+	height: 50px;
+	width: 400px;
+	vertical-align: top;
+}
+#detailSummary{
+	margin:20px;
+	width:600px;
+}
+#weatherLink{
+	
+	display: inline-block;
+	position:relative;
+	padding-left:50px;
+	margin-left:50px;
+	left:0px;
+	width:300px;
+	text-align:center;
+}
+#align{
+	
+	margin-top: 100px;
+	position: relative;
+	vertical-align: middle;
+}
+#fiveDay {
+	text-align: center;
+}
+#result {
+	text-align: center;
+	font-family: cursive;
+	font-size: 40px;
+	color:darkolivegreen;
+	height: 186px;
+	margin: 50px;
+}
+#imgSurvey {
+	
+	height: 337px;
+	border: outset 10px activeborder;
+	padding-bottom: 0px;
+	width: 500px;
+	display: block;
+	position: relative;
+	margin: auto;
+	margin-bottom: 20px;
+}
+#imgSize {
+	height: 337px;
+}
+#cast {
+	
+	vertical-align: top;
+	margin-left: 0px ;
+	position: relative;
+	width: 250px;
+	display: inline-block;
+}
